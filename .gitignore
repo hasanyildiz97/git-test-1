@@ -1,1 +1,4 @@
 database
+
+gitignore_directory/*
+!gitignore_directory/1.txt
